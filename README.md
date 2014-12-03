@@ -1,0 +1,1 @@
+Just a generic IRC bot written in GO.
